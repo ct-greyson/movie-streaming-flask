@@ -12,5 +12,5 @@ MAC: venv\bin\activate
 
 ```
 PC: pip install -r requirements.txt
-MAC: pip3
+MAC: pip3 install -r requirements.txt
 ```
