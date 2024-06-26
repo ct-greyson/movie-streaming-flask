@@ -7,7 +7,7 @@ MAC: python3 -m venv venv
 
 ```
 PC: venv\Scripts\activate
-MAC: venv\bin\activate
+MAC: venv/bin/activate
 ```
 
 ```
